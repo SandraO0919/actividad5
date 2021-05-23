@@ -1,0 +1,83 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin:0;
+}
+
+.tituloinicial{
+    margin: auto;
+    text-align: center;
+    font-family: cursive;
+    font-size: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.parrafofamilia{
+    letter-spacing: 1px;
+    font-family: cursive;
+    color: black;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+
+.imagen{
+    margin: auto;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+footer{
+    width: 100%;
+    background: gray;
+}
+
+.iconoredes{
+    text-align: center;
+}
+
+.ajusteicono{
+    display:inline-flex;
+    margin: 50px 35px;
+}
+
+.textopie{
+    padding-top: 8px;
+    width: 100%;
+    font-family: cursive;
+    text-align: center;
+    color: lightyellow;
+    font-size: 15px;
+    background: midnightblue;
+    height: 40px;
+}
+
+.formulario{
+    width: 500px;
+    margin: auto;
+    max-width: 100%;
+    margin-top: 30px;
+    padding: 20px;
+    position: relative;
+}
+
+.formulariotitulo{
+    text-align: center;
+    margin-top: 0;
+    font-family: Segoe Print;
+    color: blanchedalmond;
+}
+
+.formularioentrada{
+    display:block;
+    width: 100%;
+    font-size: 1.3em;
+    padding: 20px;
+    border: 1px;
+    margin-bottom: 40px;
+}
